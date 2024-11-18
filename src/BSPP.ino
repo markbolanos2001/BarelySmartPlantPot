@@ -4,6 +4,8 @@ Barely Smart Plant Pot v1
 by Mark Bolanos
 */
 
+// Calibrate the sensor to the needs of the plant
+
 #include <RGBLed.h>     //https://github.com/wilmouths/RGBLed/tree/master -- link to the lib
 
 
